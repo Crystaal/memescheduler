@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Schedule>
+  <Tasks>
+    <Task>
+      <Hour>19</Hour>
+      <Minute>38</Minute>
+      <Subreddits>
+        <Subreddit>Memes</Subreddit>
+      </Subreddits>
+      <Board>Test Board</Board>
+      <List>Doing</List>
+      <Count>5</Count>
+      <Period>day</Period>
+    </Task>
+  </Tasks>
+  <TrelloToken>94f5aa59dbc5667796f7368e03da5e8ecddde88c208714acae0f048bea9c8206</TrelloToken>
+  <ReadConfig>1</ReadConfig>
+</Schedule>
