@@ -2,8 +2,9 @@
 <Schedule>
   <Tasks>
     <Task>
-      <Hour>19</Hour>
-      <Minute>38</Minute>
+      <Id>1</Id>
+      <Hour>20</Hour>
+      <Minute>00</Minute>
       <Subreddits>
         <Subreddit>Memes</Subreddit>
       </Subreddits>
@@ -11,6 +12,7 @@
       <List>Doing</List>
       <Count>5</Count>
       <Period>day</Period>
+      <Title>memes -123</Title>
     </Task>
   </Tasks>
   <TrelloToken>94f5aa59dbc5667796f7368e03da5e8ecddde88c208714acae0f048bea9c8206</TrelloToken>
