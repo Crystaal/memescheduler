@@ -3,8 +3,21 @@
   <Tasks>
     <Task>
       <Id>1</Id>
-      <Hour>20</Hour>
-      <Minute>29</Minute>
+      <Hour>21</Hour>
+      <Minute>22</Minute>
+      <Subreddits>
+        <Subreddit>Memes</Subreddit>
+      </Subreddits>
+      <Board>Test Board</Board>
+      <List>Doing</List>
+      <Count>5</Count>
+      <Period>day</Period>
+      <Title>memes -123</Title>
+    </Task>
+    <Task>
+      <Id>2</Id>
+      <Hour>21</Hour>
+      <Minute>22</Minute>
       <Subreddits>
         <Subreddit>Memes</Subreddit>
       </Subreddits>
